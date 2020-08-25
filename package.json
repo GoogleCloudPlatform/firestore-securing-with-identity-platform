@@ -1,0 +1,14 @@
+{
+  "name": "identity-platform-samples",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Sample server for basic page requests and GET/POST request for auth handler",
+  "main": "app.js",
+  "author": "Google LLC",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "ejs": "^3.0.1",
+    "express": "^4.17.1"
+  }
+}
